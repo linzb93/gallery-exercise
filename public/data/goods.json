@@ -1,0 +1,64 @@
+{
+  "username": "罗秀英",
+  "avatar": "http://iph.href.lu/110x110",
+  "stats": { "newest": 19, "total": 18, "popular": 40 },
+  "goods": [
+    {
+      "id": "210000200609124456",
+      "title": "用想儿种节好果交先外音即及斗切道西济重据总放党并构今同照工面容真行空写行造",
+      "setTop": true,
+      "date": "1996.01.29",
+      "price": 281,
+      "cover": "http://iph.href.lu/156x156",
+      "status": {
+        "shareTime": "1974.04.05",
+        "editTime": "1980.12.23",
+        "locked": true
+      },
+      "canBuy": false,
+      "attr": {
+        "num": 6476295,
+        "specs": ["白色", "黑色", "红色", "紫色", "蓝色", "绿色", "粉色", "橘色", "灰色"],
+        "types": [150, 155, 160, 165, 170, 175]
+      }
+    },
+    {
+      "id": "630000197709237224",
+      "title": "信标高书七部此些消万酸也多线说联入路要导原术领党战织亲育改者合设却转约音族要",
+      "setTop": false,
+      "date": "1978.09.14",
+      "price": 267,
+      "cover": "http://iph.href.lu/156x156",
+      "status": {
+        "shareTime": "1994.12.12",
+        "editTime": "2005.01.02",
+        "locked": false
+      },
+      "canBuy": true,
+      "attr": {
+        "num": 398090075,
+        "specs": ["白色", "黑色", "红色"],
+        "types": [150, 155, 160, 165, 170, 175]
+      }
+    },
+    {
+      "id": "150000198405164628",
+      "title": "位经识严好至标理周儿器号然只图受",
+      "setTop": false,
+      "date": "1997.08.07",
+      "price": 270,
+      "cover": "http://iph.href.lu/156x156",
+      "status": {
+        "shareTime": "2019.08.13",
+        "editTime": "2009.10.01",
+        "locked": true
+      },
+      "canBuy": false,
+      "attr": {
+        "num": 651048631,
+        "specs": ["白色", "黑色", "红色"],
+        "types": [150, 155, 160, 165, 170, 175]
+      }
+    }
+  ]
+}
